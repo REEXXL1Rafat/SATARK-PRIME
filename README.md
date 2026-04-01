@@ -1,10 +1,10 @@
-# 🛰️ SATARK PRIME
+# 🛰️ SATARK PRIME [WORK IN PROGRESS]
 ### Cascaded AI & IoT Climate Defense Grid
  
 <div align="center">
  
 [![DPGA Candidate](https://img.shields.io/badge/DPGA-Candidate-blue.svg)](#)
-[![OSHWA Candidate](https://img.shields.io/badge/OSHWA-Candidate-red.svg)](#)
+[![OSHWA Certified](https://img.shields.io/badge/OSHWA-Certified-red.svg)](#)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Hardware: CERN-OHL-S](https://img.shields.io/badge/Hardware-CERN_OHL_S-orange.svg)](#)
 [![Phase 2: Active](https://img.shields.io/badge/Phase_2-Active_March_'26-brightgreen.svg)](#)
